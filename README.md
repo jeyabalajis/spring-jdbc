@@ -3,4 +3,4 @@ A mini project that illustrates database interaction with Spring JDBC Template a
 
 ## Configuration
 
-Modify URL, User name and Password under employee/test/config.xml
+Modify URL, User name and Password parameters for the data source bean in file config.xml under com.jeya.spring.springjdbc.employee.test/
